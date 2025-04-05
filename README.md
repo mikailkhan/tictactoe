@@ -1,2 +1,2 @@
-# tictactoe
-TicTacToe console based game build in C++. 
+# TicTacToe 🎮
+TicTacToe console-based game built in C++.
